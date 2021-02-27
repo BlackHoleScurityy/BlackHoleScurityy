@@ -1,27 +1,6 @@
 ### I'm BLACK Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://github.com/BlackHoleScurityy"><img src="https://raw.githubusercontent.com/BlackHolScurityy/BlackHoleScurityy/main/banner.jpg"></a>
-</p>
-<br>
-
-
-<p align="center">
-<a href="#"><img title="BlackHoleScurityy" src="https://img.shields.io/badge/-LordBotTermux-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/BlackHoleScurityy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-BLACK-orange?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/BlackHoleScurityy/followers"><img title="Followers" src="https://img.shields.io/github/followers/BlackHoleScurityy?style=flat-square"></a>
-<a href="https://github.com/BlackHoleScurityy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BlackHoleScurityy/LordBotTermux?style=flat-square"></a>
-<a href="https://github.com/BlackHoleScurityy/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/BlackHoleScurityy/?style=flat-square"></a>
-
-</p>
-
-### Made By
-
-<p align="center">
-    <a href="https://github.com/SangLord"><img title="Paritsod" src="https://avatars.githubusercontent.com/u/75057738?s=460&u=c7d37d13fdb8977a4474bf743a87a7f39c00dc4b&v=4" width="128"></a>
    
 ## SOSMED
 
